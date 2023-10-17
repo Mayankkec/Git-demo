@@ -1,2 +1,4 @@
 # Git-demo
-This is a octanet internship repository, that is related to a landing page.
+This is a octanet internship repository,
+<br>
+ that is related to a landing page.
